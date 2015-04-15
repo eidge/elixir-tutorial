@@ -1,1 +1,2 @@
-_build/dev/lib/kv/ebin/Elixir.KV.beam	Elixir.KV	lib/kv.ex	Elixir
+/app/_build/dev/lib/kv/ebin/Elixir.KV.beam	Elixir.KV	lib/kv.ex	Elixir
+_build/dev/lib/kv/ebin/Elixir.KV.Bucket.beam	Elixir.KV.Bucket	lib/kv/bucket.ex	Elixir.Agent	Elixir.HashDict	Elixir.Module	Elixir
